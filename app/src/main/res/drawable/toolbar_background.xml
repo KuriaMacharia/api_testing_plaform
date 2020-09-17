@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/topBar" />
+    <stroke
+        android:width="1dip"
+        android:color="@color/topBar" />
+</shape>
